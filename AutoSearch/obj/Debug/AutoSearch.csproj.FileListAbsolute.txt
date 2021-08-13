@@ -1,0 +1,10 @@
+C:\Users\jin yeong\Desktop\C#\플젝\AutoSearch\bin\Debug\AutoSearch.exe.config
+C:\Users\jin yeong\Desktop\C#\플젝\AutoSearch\bin\Debug\AutoSearch.exe
+C:\Users\jin yeong\Desktop\C#\플젝\AutoSearch\bin\Debug\AutoSearch.pdb
+C:\Users\jin yeong\Desktop\C#\플젝\AutoSearch\bin\Debug\WebDriver.dll
+C:\Users\jin yeong\Desktop\C#\플젝\AutoSearch\bin\Debug\WebDriver.xml
+C:\Users\jin yeong\Desktop\C#\플젝\AutoSearch\obj\Debug\AutoSearch.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\플젝\AutoSearch\obj\Debug\AutoSearch.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\플젝\AutoSearch\obj\Debug\AutoSearch.csproj.CopyComplete
+C:\Users\jin yeong\Desktop\C#\플젝\AutoSearch\obj\Debug\AutoSearch.exe
+C:\Users\jin yeong\Desktop\C#\플젝\AutoSearch\obj\Debug\AutoSearch.pdb
