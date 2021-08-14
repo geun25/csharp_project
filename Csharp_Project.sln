@@ -5,13 +5,15 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginForm", "LoginForm\LoginForm.csproj", "{38322089-D446-4134-9FDD-5767A89F7F05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSearch", "AutoSearch\AutoSearch.csproj", "{34D9255E-6DD1-4034-973D-E299D8C52B29}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileCheck", "FileCheck\FileCheck.csproj", "{72D911B1-0747-4604-ABA8-361172FAA330}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessCheck", "ProcessCheck\ProcessCheck.csproj", "{7B7C2511-2596-4C0B-8D64-98C654667761}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diary", "Diary\Diary.csproj", "{DBC9E3E2-4ACD-4EAA-9314-ED720EEA4E6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicBox", "MagicBox\MagicBox.csproj", "{966CA0BB-6AE2-4284-9003-A6F991596A89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSearch", "..\..\Desktop\C#\플젝\AutoSearch\AutoSearch.csproj", "{34D9255E-6DD1-4034-973D-E299D8C52B29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +25,6 @@ Global
 		{38322089-D446-4134-9FDD-5767A89F7F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38322089-D446-4134-9FDD-5767A89F7F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38322089-D446-4134-9FDD-5767A89F7F05}.Release|Any CPU.Build.0 = Release|Any CPU
-		{34D9255E-6DD1-4034-973D-E299D8C52B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{34D9255E-6DD1-4034-973D-E299D8C52B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{34D9255E-6DD1-4034-973D-E299D8C52B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{34D9255E-6DD1-4034-973D-E299D8C52B29}.Release|Any CPU.Build.0 = Release|Any CPU
 		{72D911B1-0747-4604-ABA8-361172FAA330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{72D911B1-0747-4604-ABA8-361172FAA330}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72D911B1-0747-4604-ABA8-361172FAA330}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +37,14 @@ Global
 		{DBC9E3E2-4ACD-4EAA-9314-ED720EEA4E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBC9E3E2-4ACD-4EAA-9314-ED720EEA4E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBC9E3E2-4ACD-4EAA-9314-ED720EEA4E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{966CA0BB-6AE2-4284-9003-A6F991596A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966CA0BB-6AE2-4284-9003-A6F991596A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966CA0BB-6AE2-4284-9003-A6F991596A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966CA0BB-6AE2-4284-9003-A6F991596A89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34D9255E-6DD1-4034-973D-E299D8C52B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D9255E-6DD1-4034-973D-E299D8C52B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D9255E-6DD1-4034-973D-E299D8C52B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D9255E-6DD1-4034-973D-E299D8C52B29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
