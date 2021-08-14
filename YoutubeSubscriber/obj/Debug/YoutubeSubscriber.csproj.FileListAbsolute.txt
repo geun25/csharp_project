@@ -1,0 +1,10 @@
+C:\Users\jin yeong\.vscode\csharp_project\YoutubeSubscriber\bin\Debug\YoutubeSubscriber.exe.config
+C:\Users\jin yeong\.vscode\csharp_project\YoutubeSubscriber\bin\Debug\YoutubeSubscriber.exe
+C:\Users\jin yeong\.vscode\csharp_project\YoutubeSubscriber\bin\Debug\YoutubeSubscriber.pdb
+C:\Users\jin yeong\.vscode\csharp_project\YoutubeSubscriber\bin\Debug\WebDriver.dll
+C:\Users\jin yeong\.vscode\csharp_project\YoutubeSubscriber\bin\Debug\WebDriver.xml
+C:\Users\jin yeong\.vscode\csharp_project\YoutubeSubscriber\obj\Debug\YoutubeSubscriber.csproj.AssemblyReference.cache
+C:\Users\jin yeong\.vscode\csharp_project\YoutubeSubscriber\obj\Debug\YoutubeSubscriber.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\.vscode\csharp_project\YoutubeSubscriber\obj\Debug\YoutubeSubscriber.csproj.CopyComplete
+C:\Users\jin yeong\.vscode\csharp_project\YoutubeSubscriber\obj\Debug\YoutubeSubscriber.exe
+C:\Users\jin yeong\.vscode\csharp_project\YoutubeSubscriber\obj\Debug\YoutubeSubscriber.pdb
