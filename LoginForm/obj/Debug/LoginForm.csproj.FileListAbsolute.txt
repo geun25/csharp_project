@@ -1,0 +1,11 @@
+C:\Users\jin yeong\Desktop\C#\플젝\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\jin yeong\Desktop\C#\플젝\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\jin yeong\Desktop\C#\플젝\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\jin yeong\Desktop\C#\플젝\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\플젝\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\jin yeong\Desktop\C#\플젝\LoginForm\LoginForm\obj\Debug\LoginForm.MainForm.resources
+C:\Users\jin yeong\Desktop\C#\플젝\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\jin yeong\Desktop\C#\플젝\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\jin yeong\Desktop\C#\플젝\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\플젝\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\jin yeong\Desktop\C#\플젝\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
