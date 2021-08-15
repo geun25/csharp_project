@@ -1,0 +1,10 @@
+C:\Users\jin yeong\.vscode\csharp_project\MenuChoice\bin\Debug\MenuChoice.exe.config
+C:\Users\jin yeong\.vscode\csharp_project\MenuChoice\bin\Debug\MenuChoice.exe
+C:\Users\jin yeong\.vscode\csharp_project\MenuChoice\bin\Debug\MenuChoice.pdb
+C:\Users\jin yeong\.vscode\csharp_project\MenuChoice\bin\Debug\WebDriver.dll
+C:\Users\jin yeong\.vscode\csharp_project\MenuChoice\bin\Debug\WebDriver.xml
+C:\Users\jin yeong\.vscode\csharp_project\MenuChoice\obj\Debug\MenuChoice.csproj.AssemblyReference.cache
+C:\Users\jin yeong\.vscode\csharp_project\MenuChoice\obj\Debug\MenuChoice.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\.vscode\csharp_project\MenuChoice\obj\Debug\MenuChoice.csproj.CopyComplete
+C:\Users\jin yeong\.vscode\csharp_project\MenuChoice\obj\Debug\MenuChoice.exe
+C:\Users\jin yeong\.vscode\csharp_project\MenuChoice\obj\Debug\MenuChoice.pdb

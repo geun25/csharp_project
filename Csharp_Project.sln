@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSearch", "..\..\Desktop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeSubscriber", "YoutubeSubscriber\YoutubeSubscriber.csproj", "{17762EB9-4A57-4550-8C94-C3FDFAB051F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuChoice", "MenuChoice\MenuChoice.csproj", "{92C55C5D-B37C-4298-8B72-E7339198CEB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{17762EB9-4A57-4550-8C94-C3FDFAB051F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17762EB9-4A57-4550-8C94-C3FDFAB051F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17762EB9-4A57-4550-8C94-C3FDFAB051F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92C55C5D-B37C-4298-8B72-E7339198CEB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C55C5D-B37C-4298-8B72-E7339198CEB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C55C5D-B37C-4298-8B72-E7339198CEB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C55C5D-B37C-4298-8B72-E7339198CEB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
