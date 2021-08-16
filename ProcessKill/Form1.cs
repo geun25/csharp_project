@@ -38,7 +38,7 @@ namespace ProcessKill
             PerformanceCounter[] counters = new PerformanceCounter[textBox1.Lines.Length];
             for (int i = 0; i < counters.Length; i++)
             {
-                counters[i] = new PerformanceCounter("Process", "% User Time", textBox1.Text);
+                counters[i] = new PerformanceCounter("Process", "% User Time", textBox1.Lines[i]);
             }
 
             while(state)
