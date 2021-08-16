@@ -23,7 +23,7 @@ namespace StudentsManagement
             Student[] students = new Student[20];
             for(int i=0; i<20; i++)
             {
-                students[i] = new Student(); // 각각의 배열에 stduent 클래스 객체들을 초기화
+                students[i] = new Student(); // 학생들의 정보를 담아야 하기 때문에 배열을 생성하고, 각각의 배열에 student 클래스 객체들을 초기화
             }
 
             int result = 99;
@@ -35,7 +35,7 @@ namespace StudentsManagement
                     Console.WriteLine("어떤 작업을 하시겠습니까?" + Environment.NewLine);
                     Console.WriteLine("1. 학생 정보 입력 / 2. 학생 정보 출력 / 3. 학생 정보 검색 / 4. 점수 석차 출력 / 0. 프로그램 종료");
                     Console.WriteLine();
-                    result = int.Parse(Console.ReadLine());
+                    result = int.Parse(Console.ReadLine()); // int형 변수 타입이 아닌 입력을 할 경우 catch문에서 에러처리
 
                     int studentCount = 0;
                     int ModeFlag = 0;
@@ -108,7 +108,6 @@ namespace StudentsManagement
                             // 학생 정보 출력
                             ModeFlag = 2;
                             students = Manage.StudentRead(students, ModeFlag);
-
                             break;
 
                         case 3:
@@ -179,7 +178,6 @@ namespace StudentsManagement
                 catch
                 {
                     Console.WriteLine("잘못된 입력입니다!");
-                    Console.ReadLine();
                 }
             }
         }
@@ -308,7 +306,7 @@ namespace StudentsManagement
                 xlWorksheet.Cells[1, 9] = "수학점수";
                 xlWorksheet.Cells[1, 10] = "평균점수";
 
-                for(int i= 0; i <student.Length; i++)
+                for(int i = 0; i < student.Length; i++)
                 {
                     if(student[i].name != null)
                     {
