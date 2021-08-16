@@ -1,0 +1,10 @@
+C:\Users\jin yeong\.vscode\csharp_project\ProcessKill\bin\Debug\ProcessKill.exe.config
+C:\Users\jin yeong\.vscode\csharp_project\ProcessKill\bin\Debug\ProcessKill.exe
+C:\Users\jin yeong\.vscode\csharp_project\ProcessKill\bin\Debug\ProcessKill.pdb
+C:\Users\jin yeong\.vscode\csharp_project\ProcessKill\obj\Debug\ProcessKill.csproj.AssemblyReference.cache
+C:\Users\jin yeong\.vscode\csharp_project\ProcessKill\obj\Debug\ProcessKill.Form1.resources
+C:\Users\jin yeong\.vscode\csharp_project\ProcessKill\obj\Debug\ProcessKill.Properties.Resources.resources
+C:\Users\jin yeong\.vscode\csharp_project\ProcessKill\obj\Debug\ProcessKill.csproj.GenerateResource.cache
+C:\Users\jin yeong\.vscode\csharp_project\ProcessKill\obj\Debug\ProcessKill.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\.vscode\csharp_project\ProcessKill\obj\Debug\ProcessKill.exe
+C:\Users\jin yeong\.vscode\csharp_project\ProcessKill\obj\Debug\ProcessKill.pdb

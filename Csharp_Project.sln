@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalClock", "DigitalCloc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsManagement", "StudentsManagement\StudentsManagement.csproj", "{3E9D496D-B655-4E7A-ABCA-ABF3A0188D39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessKill", "ProcessKill\ProcessKill.csproj", "{EBF5F2C0-D30E-4A6C-85E7-C025F235A8DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{3E9D496D-B655-4E7A-ABCA-ABF3A0188D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E9D496D-B655-4E7A-ABCA-ABF3A0188D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E9D496D-B655-4E7A-ABCA-ABF3A0188D39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF5F2C0-D30E-4A6C-85E7-C025F235A8DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF5F2C0-D30E-4A6C-85E7-C025F235A8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF5F2C0-D30E-4A6C-85E7-C025F235A8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF5F2C0-D30E-4A6C-85E7-C025F235A8DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
