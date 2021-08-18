@@ -8,6 +8,7 @@ namespace ProcessKill
     public partial class Form1 : Form
     {
         bool state = true;
+
         public Form1()
         {
             InitializeComponent();
