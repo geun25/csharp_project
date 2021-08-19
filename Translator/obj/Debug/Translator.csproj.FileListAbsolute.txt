@@ -1,0 +1,13 @@
+C:\Users\jin yeong\.vscode\csharp_project\Translator\bin\Debug\Translator.exe.config
+C:\Users\jin yeong\.vscode\csharp_project\Translator\bin\Debug\Translator.exe
+C:\Users\jin yeong\.vscode\csharp_project\Translator\bin\Debug\Translator.pdb
+C:\Users\jin yeong\.vscode\csharp_project\Translator\obj\Debug\Translator.csproj.AssemblyReference.cache
+C:\Users\jin yeong\.vscode\csharp_project\Translator\obj\Debug\Translator.Properties.Resources.resources
+C:\Users\jin yeong\.vscode\csharp_project\Translator\obj\Debug\Translator.csproj.GenerateResource.cache
+C:\Users\jin yeong\.vscode\csharp_project\Translator\obj\Debug\Translator.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\.vscode\csharp_project\Translator\obj\Debug\Translator.exe
+C:\Users\jin yeong\.vscode\csharp_project\Translator\obj\Debug\Translator.pdb
+C:\Users\jin yeong\.vscode\csharp_project\Translator\obj\Debug\Translator.Form1.resources
+C:\Users\jin yeong\.vscode\csharp_project\Translator\bin\Debug\WebDriver.dll
+C:\Users\jin yeong\.vscode\csharp_project\Translator\bin\Debug\WebDriver.xml
+C:\Users\jin yeong\.vscode\csharp_project\Translator\obj\Debug\Translator.csproj.CopyComplete
