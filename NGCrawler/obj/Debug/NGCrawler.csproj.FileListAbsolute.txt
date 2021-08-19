@@ -1,0 +1,5 @@
+C:\Users\jin yeong\.vscode\csharp_project\NGCrawler\obj\Debug\NGCrawler.csproj.AssemblyReference.cache
+C:\Users\jin yeong\.vscode\csharp_project\NGCrawler\obj\Debug\NGCrawler.Form1.resources
+C:\Users\jin yeong\.vscode\csharp_project\NGCrawler\obj\Debug\NGCrawler.Properties.Resources.resources
+C:\Users\jin yeong\.vscode\csharp_project\NGCrawler\obj\Debug\NGCrawler.csproj.GenerateResource.cache
+C:\Users\jin yeong\.vscode\csharp_project\NGCrawler\obj\Debug\NGCrawler.csproj.CoreCompileInputs.cache

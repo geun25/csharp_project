@@ -139,7 +139,7 @@ namespace NGCrawler
                     else if(News_Rbn.Checked) // 뉴스
                     {
                         driver.Url = "https://search.naver.com/search.naver?where=news&sm=tab_jum&query=" + encode;
-                        driver.FindElement(By.XPath("//*[@id=\"snb\"]/div[1]/div/div[1]/a[2]")).Click(); // 최신순 선택
+                        driver.FindElement(By.XPath("")).Click(); // 최신순 선택
                         for (int i = 1; i < 21; i++)
                         {
                             Search_Lbx2.Items.Add(driver.FindElement(By.XPath("")).Text);

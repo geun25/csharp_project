@@ -1,0 +1,7 @@
+C:\Users\jin yeong\.vscode\csharp_project\Tcp_Server_xlsx\bin\Debug\Tcp_Server_xlsx.exe.config
+C:\Users\jin yeong\.vscode\csharp_project\Tcp_Server_xlsx\bin\Debug\Tcp_Server_xlsx.exe
+C:\Users\jin yeong\.vscode\csharp_project\Tcp_Server_xlsx\bin\Debug\Tcp_Server_xlsx.pdb
+C:\Users\jin yeong\.vscode\csharp_project\Tcp_Server_xlsx\obj\Debug\Tcp_Server_xlsx.csproj.AssemblyReference.cache
+C:\Users\jin yeong\.vscode\csharp_project\Tcp_Server_xlsx\obj\Debug\Tcp_Server_xlsx.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\.vscode\csharp_project\Tcp_Server_xlsx\obj\Debug\Tcp_Server_xlsx.exe
+C:\Users\jin yeong\.vscode\csharp_project\Tcp_Server_xlsx\obj\Debug\Tcp_Server_xlsx.pdb

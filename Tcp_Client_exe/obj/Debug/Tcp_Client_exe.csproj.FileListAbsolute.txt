@@ -1,0 +1,6 @@
+C:\Users\jin yeong\.vscode\csharp_project\Tcp_Client_exe\bin\Debug\Tcp_Client_exe.exe.config
+C:\Users\jin yeong\.vscode\csharp_project\Tcp_Client_exe\bin\Debug\Tcp_Client_exe.exe
+C:\Users\jin yeong\.vscode\csharp_project\Tcp_Client_exe\bin\Debug\Tcp_Client_exe.pdb
+C:\Users\jin yeong\.vscode\csharp_project\Tcp_Client_exe\obj\Debug\Tcp_Client_exe.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\.vscode\csharp_project\Tcp_Client_exe\obj\Debug\Tcp_Client_exe.exe
+C:\Users\jin yeong\.vscode\csharp_project\Tcp_Client_exe\obj\Debug\Tcp_Client_exe.pdb
