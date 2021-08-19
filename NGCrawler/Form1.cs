@@ -92,7 +92,7 @@ namespace NGCrawler
                 try
                 {
                     driver.Url = "https://search.naver.com/search.naver?where=video&sm=tab_jum&query=" + encode;
-                    List<IWebElement> elements = driver.FindElement(By.XPath()).FindElements(By.TagName("li")).ToList();
+                    List<IWebElement> elements = driver.FindElement(By.XPath("")).FindElements(By.TagName("li")).ToList();
                     foreach (IWebElement x in elements)
                     {
                         Video_Lbx2.Items.Add(x.FindElement(By.ClassName("title")).Text);
@@ -139,19 +139,70 @@ namespace NGCrawler
                     else if(News_Rbn.Checked) // 뉴스
                     {
                         driver.Url = "https://search.naver.com/search.naver?where=news&sm=tab_jum&query=" + encode;
-                        driver.FindElement(By.XPath("")).Click(); // 최신순 선택
+                        driver.FindElement(By.XPath("//*[@id=\"snb\"]/div[1]/div/div[1]/a[2]")).Click(); // 최신순 선택
+                        for (int i = 1; i < 21; i++)
                         {
-                            Search_Lbx2.Items.Add(x.FindElement(By.ClassName("title")).Text);
-                            searchArray2.Add(x.FindElement(By.ClassName("title")).GetAttribute("href"));
+                            Search_Lbx2.Items.Add(driver.FindElement(By.XPath("")).Text);
+                            searchArray2.Add(driver.FindElement(By.XPath("")).GetAttribute("href"));
                         }
                     }
                 }
                 catch { }
-
-
-
             }
 
+        }
+
+
+        private void Search_Lbx_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                BrowserStart(Search_Lbx.SelectedIndex, 1);
+            }
+            catch { }
+        }
+
+        private void Video_Lbx_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                BrowserStart(Video_Lbx2.SelectedIndex, 2);
+            }
+            catch { }
+        }
+
+        private void Search_Lbx2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                BrowserStart(Search_Lbx2.SelectedIndex, 3);
+            }
+            catch { }
+        }
+
+        private void Video_Lbx2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                BrowserStart(Video_Lbx2.SelectedIndex, 4);
+            }
+            catch { }
+        }
+
+        private async void BrowserStart(int index, int mode)
+        {
+            try
+            {
+                using(driver = new ChromeDriver(service))
+                {
+                    if (mode == 1) driver.Url = searchArray[index].ToString();
+                    else if (mode == 2) driver.Url = videoArray[index].ToString();
+                    else if (mode == 3) driver.Url = searchArray2[index].ToString();
+                    else if (mode == 4) driver.Url = videoArray2[index].ToString();
+                    await Task.Delay(60000);
+                }
+            }
+            catch { }
         }
 
         private void Search_Tbx_KeyDown(object sender, KeyEventArgs e)

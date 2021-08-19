@@ -261,6 +261,7 @@ namespace NGCrawler
             this.Search_Lbx.Name = "Search_Lbx";
             this.Search_Lbx.Size = new System.Drawing.Size(693, 328);
             this.Search_Lbx.TabIndex = 9;
+            this.Search_Lbx.SelectedIndexChanged += new System.EventHandler(this.Search_Lbx_SelectedIndexChanged);
             // 
             // Search_Lbx2
             // 
@@ -270,6 +271,7 @@ namespace NGCrawler
             this.Search_Lbx2.Name = "Search_Lbx2";
             this.Search_Lbx2.Size = new System.Drawing.Size(693, 328);
             this.Search_Lbx2.TabIndex = 10;
+            this.Search_Lbx2.SelectedIndexChanged += new System.EventHandler(this.Search_Lbx2_SelectedIndexChanged);
             // 
             // Video_Lbx
             // 
@@ -279,6 +281,7 @@ namespace NGCrawler
             this.Video_Lbx.Name = "Video_Lbx";
             this.Video_Lbx.Size = new System.Drawing.Size(693, 328);
             this.Video_Lbx.TabIndex = 11;
+            this.Video_Lbx.SelectedIndexChanged += new System.EventHandler(this.Video_Lbx_SelectedIndexChanged);
             // 
             // Video_Lbx2
             // 
@@ -288,12 +291,13 @@ namespace NGCrawler
             this.Video_Lbx2.Name = "Video_Lbx2";
             this.Video_Lbx2.Size = new System.Drawing.Size(693, 328);
             this.Video_Lbx2.TabIndex = 12;
+            this.Video_Lbx2.SelectedIndexChanged += new System.EventHandler(this.Video_Lbx2_SelectedIndexChanged);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1388, 832);
+            this.ClientSize = new System.Drawing.Size(2083, 1248);
             this.Controls.Add(this.Video_Lbx2);
             this.Controls.Add(this.Video_Lbx);
             this.Controls.Add(this.Search_Lbx2);
