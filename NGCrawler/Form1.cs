@@ -138,9 +138,8 @@ namespace NGCrawler
 
                     else if(News_Rbn.Checked) // 뉴스
                     {
-                        driver.Url = "https://search.naver.com/search.naver?where=video&sm=tab_jum&query=" + encode;
-                        List<IWebElement> elements = driver.FindElement(By.XPath()).FindElements(By.TagName("li")).ToList();
-                        foreach (IWebElement x in elements)
+                        driver.Url = "https://search.naver.com/search.naver?where=news&sm=tab_jum&query=" + encode;
+                        driver.FindElement(By.XPath("")).Click(); // 최신순 선택
                         {
                             Search_Lbx2.Items.Add(x.FindElement(By.ClassName("title")).Text);
                             searchArray2.Add(x.FindElement(By.ClassName("title")).GetAttribute("href"));
