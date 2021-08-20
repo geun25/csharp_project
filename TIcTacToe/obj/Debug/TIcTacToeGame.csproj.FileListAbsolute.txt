@@ -1,0 +1,10 @@
+C:\Users\jin yeong\.vscode\csharp_project\TIcTacToe\bin\Debug\TIcTacToe.exe.config
+C:\Users\jin yeong\.vscode\csharp_project\TIcTacToe\bin\Debug\TIcTacToe.exe
+C:\Users\jin yeong\.vscode\csharp_project\TIcTacToe\bin\Debug\TIcTacToe.pdb
+C:\Users\jin yeong\.vscode\csharp_project\TIcTacToe\obj\Debug\TIcTacToeGame.csproj.AssemblyReference.cache
+C:\Users\jin yeong\.vscode\csharp_project\TIcTacToe\obj\Debug\TIcTacToe.Form1.resources
+C:\Users\jin yeong\.vscode\csharp_project\TIcTacToe\obj\Debug\TIcTacToe.Properties.Resources.resources
+C:\Users\jin yeong\.vscode\csharp_project\TIcTacToe\obj\Debug\TIcTacToeGame.csproj.GenerateResource.cache
+C:\Users\jin yeong\.vscode\csharp_project\TIcTacToe\obj\Debug\TIcTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\.vscode\csharp_project\TIcTacToe\obj\Debug\TIcTacToe.exe
+C:\Users\jin yeong\.vscode\csharp_project\TIcTacToe\obj\Debug\TIcTacToe.pdb

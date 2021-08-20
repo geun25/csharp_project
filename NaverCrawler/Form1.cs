@@ -45,7 +45,7 @@ namespace NaverCrawler
 
             try
             {
-                driver.FindElement(By.Id("//*[@id=\"main_pack\"]/section[4]/div/div[1]/div/div[1]/a[2]")).Click();
+                driver.FindElement(By.XPath("//*[@id=\"main_pack\"]/section[4]/div/div[1]/div/div[1]/a[2]")).Click();
 
                 listBox1.Items.Add(driver.FindElement(By.XPath("//*[@id=\"sp_blog_1\"]/div/div/a")).Text);
                 result1 = driver.FindElement(By.XPath("//*[@id=\"sp_blog_1\"]/div/div/div[2]/div/a/div")).Text;
