@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 // 버튼을 클릭했을 때 마킹이 되어야 한다(순서대로 O/X)
@@ -28,7 +21,6 @@ namespace TIcTacToe
             {
                 btns[i].Tag = i;
             }
-
         }
 
         private void button_Click(object sender, EventArgs e)
