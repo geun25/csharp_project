@@ -121,7 +121,7 @@ namespace NGCrawler
                         for (int i = 1; i < 21; i++)
                         {
                             Search_Lbx2.Items.Add(driver.FindElement(By.Id("main_pack")).FindElement(By.Id("")).FindElement(By.XPath("")).Text);
-                            searchArray2.Add(x.FindElement(By.ClassName("title")).GetAttribute("href"));
+                            searchArray2.Add(driver.FindElement(By.ClassName("title")).GetAttribute("href"));
                         }
                     }
 
@@ -207,8 +207,8 @@ namespace NGCrawler
 
         private void Search_Tbx_KeyDown(object sender, KeyEventArgs e)
         {
-            if(e.KeyCode == System.Windows.Forms.Keys.Enter)
-                Search_Btn_Click(sender, e)
+            if (e.KeyCode == System.Windows.Forms.Keys.Enter)
+                Search_Btn_Click(sender, e);
         }
     }
 }
